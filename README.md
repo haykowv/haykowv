@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @haykowv
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html
-- 📫 How to reach me @jsuispasflo on twitter
+@haykowv
+interested in web development
+currently learning
